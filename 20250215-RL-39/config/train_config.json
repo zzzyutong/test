@@ -1,0 +1,6 @@
+{
+    "train_samples": 304,
+    "train_base_load": 900,
+    "train_load_rate": 1,
+    "train_delayed_load": -10.0
+}
